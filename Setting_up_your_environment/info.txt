@@ -1,0 +1,1 @@
+In this video we are going to describe how to set up your environment and install Qiskit to start your Quantum Computing Journey.
